@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="jshearenBot" id="f675ac38-64d0-4811-808a-9c078be9c465">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
