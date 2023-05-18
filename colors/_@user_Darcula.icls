@@ -3,7 +3,7 @@
     <property name="created">2019-10-15T15:54:19</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2023-05-16T11:49:57</property>
+    <property name="modified">2023-05-17T21:16:16</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -61,10 +61,14 @@
     <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="Label">
       <value>
-        <option name="FOREGROUND" value="2fdb2" />
-        <option name="BACKGROUND" value="2b2b2b" />
-        <option name="EFFECT_COLOR" value="2fdb2" />
+        <option name="FOREGROUND" value="41dbdb" />
+        <option name="EFFECT_COLOR" value="41dbdb" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Map key">
+      <value>
+        <option name="FOREGROUND" value="4e8092" />
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
