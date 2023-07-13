@@ -1,4 +1,8 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift #100007e" />
   </action>
