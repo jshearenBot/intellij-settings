@@ -1,7 +1,11 @@
 <code_scheme name="Default" version="173">
   <codeStyleSettings language="Groovy">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   </codeStyleSettings>
 </code_scheme>
