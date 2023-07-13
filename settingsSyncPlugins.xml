@@ -73,7 +73,9 @@
         </entry>
         <entry key="Tabifier">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="XPathView">
@@ -94,6 +96,17 @@
                 <set>
                   <option value="XPathView" />
                   <option value="com.intellij.modules.xml" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.github.ttyniwa.intellij.plugin.align">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>
